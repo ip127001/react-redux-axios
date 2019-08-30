@@ -4,7 +4,11 @@ application made with react and redux
 
 ```
 1. Login Page ('/') 
-It is a login page: If u use these credentials you can login into application: {test, 1234}
+It is a login page: If u use these credentials you can login into application: 
+{
+id => test, 
+pass => 1234
+}
 If you enter wrong credentials then, you can't access other routes.
 
 2. Home Page ('/open-league')
